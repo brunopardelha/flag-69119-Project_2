@@ -1,0 +1,46 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+#
+# .gitignore from the client side
+# 
+# dependencies
+/cliente/node_modules
+/cliente/.pnp
+/cliente/.pnp.js
+
+# testing
+/cliente/coverage
+
+# production
+/cliente/build
+
+# misc
+/cliente/.DS_Store
+/cliente/.env.local
+/cliente/.env.development.local
+/cliente/.env.test.local
+/cliente/.env.production.local
+
+/cliente/npm-debug.log*
+/cliente/yarn-debug.log*
+/cliente/yarn-error.log*
+
+#
+# .gitignore from the server side
+# 
+# dependencies
+/server/node_modules
+
+# previous versions
+/server/OLD
+
+# ENVIROMENT file
+/server/.env
+
+# personnal
+Progress.txt
+slides.pdf
+/server/data/logs/*
+/server/data/platform_logos/*
+/server/data/users_images/*
+/server_with_FrontEnd
+

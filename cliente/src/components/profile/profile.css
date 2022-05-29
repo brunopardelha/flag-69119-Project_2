@@ -1,0 +1,17 @@
+.main-window {
+    max-width: 80%;
+    margin: 0 auto;
+    max-height: 80%;
+    background-color: rgba(67, 82, 132, 0.8);
+    margin-top: 10vh;
+    border-radius: 35px;
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+}
+
+form input {
+    width: 75%;
+    margin: 15px auto;
+    border-radius: 5px;
+
+}

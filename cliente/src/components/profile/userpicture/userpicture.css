@@ -1,0 +1,5 @@
+form input[type='file'] {
+    max-width: 200%;
+    margin-top: 3em;
+
+}

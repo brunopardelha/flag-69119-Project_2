@@ -1,0 +1,24 @@
+.main-bar {
+    max-width: 85%;
+    margin: auto;
+}
+
+.nav-pills .nav-link.active {
+    background-color: rgb(67, 82, 132);
+}
+
+.card {
+    min-width: 10rem;
+    min-height: 10rem;
+}
+
+.list-games {
+    background-color: rgb(67, 82, 132);
+}
+
+li a img {
+    max-width: 10vw;
+    max-height: 10vh;
+    background-color: white;
+    color: white;
+}
