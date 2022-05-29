@@ -20,7 +20,7 @@ store.on('error', function (error) {
   logger.error('db', `Error tring to connect to MongoDB for session autentication: '${error.message}`)
 });
 
-const app = express("http://localhost:3000");
+const app = express();
 
 app.use(cors({
   origin: ["http://localhost:3000"],
