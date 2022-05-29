@@ -8,6 +8,6 @@
 	- [ ] user creation;
 	- [ ] profile management;
 	- [ ] user's profile with image;
-	- [ ] access log to the app in the server	
+	
 
 	
